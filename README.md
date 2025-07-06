@@ -6,8 +6,7 @@ Welcome to my GitHub profile! 🚀
 ## 👩‍💻 About Me
 
 Curious mind. Growth-driven soul. 🌱  
-I’m pursuing **ECE at R.M.D. Engineering College** and  
-also studying **Data Science at IIT Madras** 📘
+I’m pursuing **ECE at R.M.D. Engineering College** and  also studying **Data Science at IIT Madras** 📘
 
 Always excited to create, collaborate, and code. 💡  
 I enjoy writing clean, beginner-friendly code that works. 😄  
