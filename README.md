@@ -31,6 +31,8 @@ I speak **Tamil**, **English**, **Telugu** and a bit of **Hindi** too! 🗣️
 
 🔗 LinkedIn: [Linkedin](https://www.linkedin.com/in/samprithi-s)
 
+---
+
 ✨ *“Still learning. Still building. Always curious.”*
 
 
