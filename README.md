@@ -18,7 +18,7 @@ I speak **Tamil**, **English**, **Telugu** and a bit of **Hindi** too! 🗣️
 ## 🎓 Education
 
 🎓 **B.E. Electronics and Communication Engineering**  
-📍 R.M.D. Engineering College | Oct 2022 – May 2026
+📍 R.M.D. Engineering College | 2023 - 2027
 
 📘 **BS in Data Science and Applications**  
 📍 IIT Madras (Diploma Level – Ongoing)
